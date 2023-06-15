@@ -1,9 +1,8 @@
 #include<stdio.h>
 /**
  * main - Entry point
- *
- * Description: Printing a whole string with a double quatation mark using puts() function
- *
+ * Description: Printing a whole string with a double
+ * quatation mark using puts() function
  * Return: Always 0 (Success)
  */
 
