@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: Print alphabet exept q and e 
+ * Description: Print alphabet exept q and e
  * Return: Alwyas 0 on success
  */
 
