@@ -1,4 +1,4 @@
-#include <unistd.h>
+#include "main.h"
 /**
  * main - Entry point
  * Description: Print _putchar followed by new line
