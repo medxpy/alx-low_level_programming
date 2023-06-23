@@ -55,3 +55,7 @@ Write a function that draws a diagonal line on the terminal.
 
 ### 8. You are so much sunshine in every square inch
 
+### 9-Fizz-Buzz
+
+### 10-Triangles
+
