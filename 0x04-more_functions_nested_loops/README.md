@@ -59,3 +59,5 @@ Write a function that draws a diagonal line on the terminal.
 
 ### 10-Triangles
 
+### 12- Numbers have life; they're not just symbols on paper
+
