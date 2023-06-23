@@ -22,8 +22,10 @@ void	more_numbers(void)
 			_putchar('0' + number % 10);
 			number++;
 		}
-		if (i != 9)
+		if (i != 10)
 			_putchar('\n');
+		else
+			break;
 		i++;
 		number = 0;
 	}
