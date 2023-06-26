@@ -7,3 +7,7 @@ Write a function that take a pointer to an `int` as parameter and updates the va
 
  - Prototype: `void reset_to_98(int *n)`
 
+### 1- Don't swap horses in crossing stream
+Write a function that swaps the values of two integers
+
+ - Prototype: `void swap_int(int *a, int *b);`
