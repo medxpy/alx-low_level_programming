@@ -11,3 +11,8 @@ Write a function that concatenates two strings.
  - Returns a pointer to the resulting string dest
 
 ### 1-strncat
+function that concatenates two strings
+
+### 2-strncpy
+Function that copies a string
+
