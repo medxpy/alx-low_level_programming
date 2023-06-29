@@ -16,3 +16,6 @@ function that concatenates two strings
 ### 2-strncpy
 Function that copies a string
 
+### 3-strcmp
+Compare two string
+
