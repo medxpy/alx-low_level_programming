@@ -17,4 +17,5 @@ Write a program that prints the number of arguments passed into it.
 
 Write a program that prints all arguments it receives.
 
-
+### 3. Neither irony nor sarcasm is argument
+Write a program that multiplies two numbers
