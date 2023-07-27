@@ -11,7 +11,7 @@
 list_t *add_node_end(list_t **head, const char *str)
 {
 	char *dup;
-	ent len;
+	int len;
 	list_t *new;
 	list_t *last;
 
